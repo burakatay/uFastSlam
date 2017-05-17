@@ -1,4 +1,5 @@
 == Unscented Fast SLAM -> Suat Ögme - 130202090
+== Düzenleme Kontrol Eden -> Burak Atay - 130202022
 
 === 1)Kodun Derlenmesi ve Çalıştırılması
 
@@ -17,35 +18,35 @@ A possible cause of this error is that you forgot to initialize the variable, or
 
 ==== 1-)
 
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/1.png[] 
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/1e1.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/1ee1.png[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/1.png?raw=true[] 
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/1e1.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/1ee1.png?raw=true[]
 
 ==== 2-)
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/2.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/2e2.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/2ee2.png[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/2.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/2e2.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/2ee2.png?raw=true[]
 
 === 3-)
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/3.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/3e3.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/3ee3.png[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/3.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/3e3.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/3ee3.png?raw=true[]
 
 === 4-)
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/4.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/4e4.png[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/4.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/4e4.png?raw=true[]
 
 === 5-)
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/5.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/5e5.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/5ee5.png[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/5.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/5e5.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/5ee5.png?raw=true[]
 
 === 6-)
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/6.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/6e6.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/6ee6.png[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/6.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/6e6.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/6ee6.png?raw=true[]
 
 === 7-)
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/7.png[]
-image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/7e7.png[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/7.png?raw=true[]
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/7e7.png?raw=true[]
 
