@@ -50,3 +50,30 @@ image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/6ee6.png?raw=
 image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/7.png?raw=true[]
 image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/7e7.png?raw=true[]
 
+#####################################################################
+== Çapraz kontrol sonuçları
+
+uygulama Mac os da denenmiş bendeki işletim sistemi windows os olduğu için windowsta denedim ilk olarak 
+
+svn co https://svn.openslam.org/data/svn/ufastslam
+
+adresindeki kodu indirdim (TortoiseSVN programını kullanarak)
+
+indirme işlemi tamamlandığında uslam dosyasını Matlab içerisinden açtım
+
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/11.png?raw=true[]
+
+F5 veya Debug sekmesinden 5. seçenek run uslam.m seçeneğine tıklıyarak çalıştırabilirsiniz
+
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/12.png?raw=true[]
+
+Program yukarıda verilen ayarlamalar gerçekleştirilmeden doğru bir şekilde çalıştı 
+
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/13.png?raw=true[]
+
+Programın bütün haritayı gezmesi sonlandığında ise sonuç :
+
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/14.png?raw=true[]
+
+image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/15.png?raw=true[]
+
