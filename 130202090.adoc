@@ -1,0 +1,51 @@
+== Unscented Fast SLAM -> Suat Ögme - 130202090
+
+=== 1)Kodun Derlenmesi ve Çalıştırılması
+
+* Indirdiğiniz projeyi Matlab'ta açınız.
+* * Açtıktan sonra Matlab'taki "Current Folder" bölümünden "ufastslam/trunk/code" dosyasına geliniz."Current Folder" da proje dosyaları görünecektir.
+* Matlab'taki "Command Window" yani komut satırından "uslam" yazıp "Enter" tuşuna basınız.
+* Eğer "Error: File: uslam.m Line: 56 Column: 17
+"featurecount" previously appeared to be used as a function or command, conflicting with its use here as the name of a variable.
+A possible cause of this error is that you forgot to initialize the variable, or you have initialized it implicitly using load or eval." gibi bir hata alırsanız aşağıdaki adımları izleyiniz:
+1. "uslam.m" dosyasında ctrl+ F (MacOSX için cmd+ F) tuşlarına basınız. "Find and Replace" isminde bir pencere açılacaktır.
+2. "Find what" kısmına "featurecount" yazınız. Ardından "Replace with" kısmına istediğiniz uygun bir yazı yazınız ve ardından "Replace All" butonuna tıklayınız.
+3. Aynı işlemi "setconfigfile.m" için de tekrarlayınız.
+4. Artık proje sorunsuz çalışacaktır.
+
+=== 2) Kod-Algoritma Karşılıkları
+
+==== 1-)
+
+image::Desktop/Resimler/1.png[] 
+image::Desktop/Resimler/1e1.png[]
+image::Desktop/Resimler/1ee1.png[]
+
+==== 2-)
+image::Desktop/Resimler/2.png[]
+image::Desktop/Resimler/2e2.png[]
+image::Desktop/Resimler/2ee2.png[]
+
+=== 3-)
+image::Desktop/Resimler/3.png[]
+image::Desktop/Resimler/3e3.png[]
+image::Desktop/Resimler/3ee3.png[]
+
+=== 4-)
+image::Desktop/Resimler/4.png[]
+image::Desktop/Resimler/4e4.png[]
+
+=== 5-)
+image::Desktop/Resimler/5.png[]
+image::Desktop/Resimler/5e5.png[]
+image::Desktop/Resimler/5ee5.png[]
+
+=== 6-)
+image::Desktop/Resimler/6.png[]
+image::Desktop/Resimler/6e6.png[]
+image::Desktop/Resimler/6ee6.png[]
+
+=== 7-)
+image::Desktop/Resimler/7.png[]
+image::Desktop/Resimler/7e7.png[]
+
