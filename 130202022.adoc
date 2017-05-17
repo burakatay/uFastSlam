@@ -51,6 +51,8 @@ image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/7.png?raw=tru
 image::https://github.com/burakatay/uFastSlam/tree/master/Resimler/7e7.png?raw=true[]
 
 #####################################################################
+
+
 == Çapraz kontrol sonuçları
 
 uygulama Mac os da denenmiş bendeki işletim sistemi windows os olduğu için windowsta denedim ilk olarak 
